@@ -13,8 +13,9 @@ dsc211-report/
 ├── Paper_Simulation.ipynb                                           # Main simulation notebook (Color Squares + MNIST)
 ├── Reconstructing Training Data from Trained Neural Networks.pdf    # Original paper
 ├── weights-mnist.pth                                                # Pre-trained MNIST binary MLP weights
-├── color_square_example/                                            # Output images from Color Squares experiment
+├── color_square_example/                                            # Raw Color Squares Data
 ├── color_square_pth/                                                # Saved model weights from Color Squares experiment
+├── figures/                                                         # Output of 2 proof-of-concept experiments
 ├── mnist_pth/                                                       # Saved checkpoint tensors from MNIST experiment
 └── data/                                                            # Raw MNIST data
 ```
